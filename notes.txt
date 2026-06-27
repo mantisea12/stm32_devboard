@@ -1,0 +1,5 @@
+Notes:
+- An external SDRAM interface was originally planned for this design.
+- During PCB layout, the SDRAM was removed due to routing density and project scope considerations.
+- The associated PCB traces and components were removed.
+- Some schematic net labels and routing artifacts related to the abandoned SDRAM interface remain, but they are electrically disconnected and have no effect on the final design.
