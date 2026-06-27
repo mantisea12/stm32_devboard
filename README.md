@@ -29,10 +29,13 @@ An 8-layer HDI development board based on the STM32H7A3AG (UFBGA169, 0.5 mm pitc
 
 ## Images
 
+![Front](https://raw.githubusercontent.com/mantisea12/stm32_devboard/main/front.png)
 <img src="https://raw.githubusercontent.com/mantisea12/stm32_devboard/main/front.png">
 
 ## Notes
 
-An external SDRAM interface was originally planned for this design but was removed during layout due to routing density and project scope considerations. Some disconnected schematic artifacts related to the removed SDRAM interface remain and have no effect on the final design.
+- An external SDRAM interface was originally planned for this design but was removed during layout due to routing density and project scope considerations. Some disconnected schematic artifacts related to the removed SDRAM interface remain and have no effect on the final design.
+
+- The project highlighted the importance of trace length matching for high-speed interfaces. Some signals were not optimally length-matched in this revision, and this experience informed the implementation of more comprehensive signal integrity checks and design reviews in subsequent projects.
 
 This project was created to explore high-density multilayer PCB design, BGA fanout techniques, and advanced embedded hardware layout.
