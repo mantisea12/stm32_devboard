@@ -27,6 +27,10 @@ An 8-layer HDI development board based on the STM32H7A3AG (UFBGA169, 0.5 mm pitc
 - Board renders
 - PCB screenshots
 
+## Images
+
+[https://github.com/mantisea12/stm32_devboard/blob/main/front.png]
+
 ## Notes
 
 An external SDRAM interface was originally planned for this design but was removed during layout due to routing density and project scope considerations. Some disconnected schematic artifacts related to the removed SDRAM interface remain and have no effect on the final design.
