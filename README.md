@@ -29,8 +29,9 @@ An 8-layer HDI development board based on the STM32H7A3AG (UFBGA169, 0.5 mm pitc
 
 ## Images
 
-![Front](https://raw.githubusercontent.com/mantisea12/stm32_devboard/main/front.png)
 <img src="https://raw.githubusercontent.com/mantisea12/stm32_devboard/main/front.png">
+<img src="https://raw.githubusercontent.com/mantisea12/stm32_devboard/main/pcb.png">
+<img src="https://raw.githubusercontent.com/mantisea12/stm32_devboard/main/bga.png">
 
 ## Notes
 
